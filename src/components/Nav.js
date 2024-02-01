@@ -7,6 +7,10 @@ function Nav (props){
             <Link to="/">
                 <div> Crypto Prices </div>
             </Link>
+
+            
+
+
             <Link to="/currencies">
                 <div> Currencies </div>
             </Link>
